@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrentonHarrisCodes
-- 👀 I’m interested in ... Java, HTML, and CSS
+- 👀 I’m interested in ... Java, HTML, JavaScript, and CSS
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... nothing yet still learning
 - 📫 How to reach me ... trentonharrisphotos@gmail.com
